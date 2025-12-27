@@ -1,0 +1,1 @@
+# discord-translate-bot-v2.0
